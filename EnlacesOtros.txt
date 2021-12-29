@@ -1,0 +1,3 @@
+Descarga DEV-C++ en el siguiente enlace (Solo uno):
+Mega: https://mega.nz/file/cIBDRCTS#83Kg0i_QxXA65Z9bXSO6WlBKKJqGvxVP0nbEfs1VqF4
+Mediafire: https://www.mediafire.com/file/cjkh2ynu0a1ia3s/Dev-Cpp_5.5.3_TDM-GCC_x64_4.7.1_Setup.exe/file
