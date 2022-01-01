@@ -1,4 +1,4 @@
-/*Escriba un programa que calcule las soluciones de una ecuacion de segundo grado de la forma
+/* 13. Escriba un programa que calcule las soluciones de una ecuacion de segundo grado de la forma
 ax^2 + bx + c = 0 teniendo en cuenta la expresion.*/
 
 #include<iostream>
