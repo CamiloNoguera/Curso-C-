@@ -16,8 +16,14 @@ int main(){
 		case 'o':
 		case 'u':
 			cout<<"Es una vocal en minuscula";break;
+		case 'A':
+		case 'E':
+		case 'I':
+		case 'O':
+		case 'U':
+			cout<<"Es una vocal en mayuscula";break;
 		default :
-			cout<<"Es una vocal mayuscula";break;
+			cout<<"No es una vocal";break;
 	}
 	
 	return 0;
